@@ -17,3 +17,9 @@ HOW TO RUN
 1. in your command promtpt navigate to where file is saved using 'cd'
 2. run using: 'python rockpaperscissors.py'
 
+
+HOW IT WORKS
+1. validates users choice using a while loop after 1 complete round
+2. uses conditional statement to compare computer's choice against user choice to determine the winner.
+3. round is repeated by while true loop until the user says stop. 
+
